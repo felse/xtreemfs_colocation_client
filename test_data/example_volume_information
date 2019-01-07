@@ -1,0 +1,22 @@
+Path (on volume)     /
+XtreemFS file Id     1aaa1b2b-e889-48d8-9d45-d6cdfed6c10f:1
+XtreemFS URL         pbrpc://localhost:32638/xfs_volume
+Owner                felix
+Group                users
+Type                 volume
+Available Space      18 GB
+Quota / Used Space   unlimited / 9 GB
+Voucher Size         10 MB
+Default User Quota   unlimited
+Default GroupQuota   unlimited
+Num. Files/Dirs      1252 / 317
+Access Control p.    POSIX (permissions & ACLs)
+OSD Selection p.     1000,1004
+Replica Selection p. default
+Default Striping p.  STRIPING_POLICY_RAID0 / 1 / 128kB
+Default Repl. p.     not set
+Snapshots enabled    no
+Tracing enabled      no
+Selectable OSDs      flx-local-osd-1 (130.73.78.157:32640)
+                     flx-local-osd-2 (130.73.78.157:32641)
+                     flx-local-osd-3 (130.73.78.157:32642)

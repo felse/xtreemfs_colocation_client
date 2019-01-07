@@ -1,0 +1,6 @@
+.idea/
+xtreemfs_client/__pycache__/
+tests/__pycache__/
+xtreemfs_client.egg-info/
+build/
+dist/
